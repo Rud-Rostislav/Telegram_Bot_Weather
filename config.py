@@ -1,0 +1,2 @@
+token = 'dc5e657eae81f7bd672e0201c4b2155d'
+tg_bot = '5079354374:AAGGDFnCcI7QFNb_xQ4FCPmh9AMTs-xtRjw'
